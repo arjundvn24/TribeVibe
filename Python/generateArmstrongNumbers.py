@@ -10,4 +10,4 @@ for num in range(int(n)):
     temp=temp//10
 #commend added for "more changes" assignment
   if sum==num:
-    print (num)
+    printf(num)
