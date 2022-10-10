@@ -8,6 +8,6 @@ for num in range(int(n)):
     digit=temp%10
     sum=sum+digit**3
     temp=temp//10
-#commend added for assignment
+#commend added for "more changes" assignment
   if sum==num:
     print (num)
